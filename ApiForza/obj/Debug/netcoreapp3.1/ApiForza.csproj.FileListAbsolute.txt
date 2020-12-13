@@ -60,3 +60,11 @@ C:\Users\DELL\source\repos\ApiForza\ApiForza\obj\Debug\netcoreapp3.1\ApiForza.Mv
 C:\Users\DELL\source\repos\ApiForza\ApiForza\obj\Debug\netcoreapp3.1\ApiForza.dll
 C:\Users\DELL\source\repos\ApiForza\ApiForza\obj\Debug\netcoreapp3.1\ApiForza.pdb
 C:\Users\DELL\source\repos\ApiForza\ApiForza\obj\Debug\netcoreapp3.1\ApiForza.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.7\Content\Areas\HelpPage\Views\Web.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config

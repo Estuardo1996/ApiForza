@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\ApiForza.DALL.dll.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\ApiForza.DALL.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\ApiForza.DALL.pdb
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\obj\Debug\ApiForza.DALL.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\obj\Debug\ApiForza.DALL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\obj\Debug\ApiForza.DALL.csproj.CopyComplete
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\obj\Debug\ApiForza.DALL.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.DALL\obj\Debug\ApiForza.DALL.pdb

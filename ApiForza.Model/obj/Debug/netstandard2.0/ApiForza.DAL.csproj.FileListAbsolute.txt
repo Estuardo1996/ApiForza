@@ -1,9 +1,0 @@
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\bin\Debug\netstandard2.0\ApiForza.DAL.deps.json
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\bin\Debug\netstandard2.0\ApiForza.DAL.dll
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.AssemblyInfoInputs.cache
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.AssemblyInfo.cs
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\bin\Debug\netstandard2.0\ApiForza.DAL.pdb
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.csprojAssemblyReference.cache
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.dll
-C:\Users\DELL\source\repos\ApiForza\ApiForza.Model\obj\Debug\netstandard2.0\ApiForza.DAL.pdb
