@@ -1,5 +1,6 @@
 ﻿using ApiForza.DALL;
 using ApiForza.DALL.Repositorios;
+using ApiForza.DALL.Entidades;
 using ApiForza.SLL.Helpers;
 using System;
 using System.Collections.Generic;
@@ -13,8 +14,12 @@ namespace ApiForza.SLL.SL
     public partial class ControlApi : IDisposable
     {
         internal IUnidadDeTrabajo _unidad;
-        internal IRepositorio<Menu> _repMenu;
-        internal IRepositorio<MenuOpcion> _repMenuOpcion;
+        internal IRepositorio<Compras> _repCompras;
+        internal IRepositorio<DetalleCompra> _repDetalleCompra;
+        internal IRepositorio<Venta> _repVenta;
+        internal IRepositorio<VentaDetalle> _repVentaDetalle;
+        internal IRepositorio<Producto> _repProducto;
+        internal IRepositorio<Estado> _repEstado;
 
     
     
@@ -22,41 +27,25 @@ namespace ApiForza.SLL.SL
         public ControlApi()
         {
             _unidad = new UnidadDeTrabajo();
-            _repMenu = _unidad.ObtenerRepositorio<Menu>();
-            _repMenuOpcion = _unidad.ObtenerRepositorio<MenuOpcion>();
+            _repCompras = _unidad.ObtenerRepositorio<Compras>();
+            _repDetalleCompra = _unidad.ObtenerRepositorio<DetalleCompra>();
+            _repEstado = _unidad.ObtenerRepositorio<Estado>();
+            _repVenta = _unidad.ObtenerRepositorio<Venta>();
+            _repVentaDetalle = _unidad.ObtenerRepositorio<VentaDetalle>();
+            _repProducto = _unidad.ObtenerRepositorio<Producto>();
 
         }
         public void Dispose()
         {
-            _repMenu = null;
-            _repMenuOpcion = null;
-       
+            _repCompras = null;
+            _repDetalleCompra = null;
+            _repVenta = null;
+            _repVentaDetalle = null;
+            _repEstado = null;
+            _repProducto = null;
+
             _unidad.Dispose();
         }
-
-
-    
-
-        protected Usuario ObtenerUsuarioPorTipoDeAcceso(TipoAcceso tipoAcceso, string usuario)
-        {
-            Usuario entUsuario = null;
-
-            switch (tipoAcceso)
-            {
-                case TipoAcceso.CodigoEmpleado:
-                    entUsuario = _repUsuario.Tabla.Where(u => u.CodigoEmpleado == usuario).SingleOrDefault();
-                    break;
-                case TipoAcceso.UsuarioDominio:
-                    entUsuario = _repUsuario.Tabla.Where(u => u.UsuarioDominio == usuario).SingleOrDefault();
-                    break;
-                default:
-                    break;
-            }
-
-            return entUsuario;
-        }
-
-
 
     }
    
