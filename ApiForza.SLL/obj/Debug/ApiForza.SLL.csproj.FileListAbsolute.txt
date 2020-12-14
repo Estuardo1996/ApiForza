@@ -1,2 +1,17 @@
 C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\obj\Debug\ApiForza.SLL.csprojAssemblyReference.cache
 C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\obj\Debug\ApiForza.SLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.SLL.dll.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.SLL.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.SLL.pdb
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.DALL.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.DALL.pdb
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\ApiForza.DALL.dll.config
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\obj\Debug\ApiForza.SLL.csproj.CopyComplete
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\obj\Debug\ApiForza.SLL.dll
+C:\Users\DELL\source\repos\ApiForza\ApiForza.SLL\obj\Debug\ApiForza.SLL.pdb

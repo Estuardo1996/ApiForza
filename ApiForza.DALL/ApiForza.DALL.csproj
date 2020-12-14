@@ -55,6 +55,7 @@
     <Compile Include="Contexto.cs" />
     <Compile Include="Entidades\Compras.cs" />
     <Compile Include="Entidades\DetalleCompra.cs" />
+    <Compile Include="Entidades\DetalleVenta.cs" />
     <Compile Include="Entidades\EntidadBase.cs" />
     <Compile Include="Entidades\Estado.cs" />
     <Compile Include="Entidades\Producto.cs" />

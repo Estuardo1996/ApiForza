@@ -21,3 +21,10 @@ namespace ApiForza.DALL
         }
     }
 }
+
+namespace ApiForza.DALL
+{
+    public class ApiRestCoreContext
+    {
+    }
+}
